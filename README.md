@@ -1,4 +1,4 @@
-# ImageMetaExtractor
+# ImageMetaDataExtractor
 Image Meta Data Extractor
 
 This is a Python 3.7.x based 
