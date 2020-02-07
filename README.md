@@ -1,7 +1,7 @@
 # ImageMetaDataExtractor
 Image Meta Data Extractor
 
-This is a Python 3.7.x based 
+This is a Python 3.x.x based 
 Image Meta Data Extractor using 
 Pillow library 
 
